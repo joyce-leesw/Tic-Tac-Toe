@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-### - play Tic Tac Toe against yourself
+A project to design a Tic Tac Toe game to play against yourself.
